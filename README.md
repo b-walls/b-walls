@@ -2,7 +2,7 @@
 
 💫 **Full-Stack Developer & ML Engineer | CS @ James Madison University**
 
-Hello, I’m Brendan. I’m a full-stack developer pursuing a Bachelor of Science in Computer Science at James Madison University. I’m currently looking for opportunities where I can contribute to a team of developers, make a meaningful impact, and continue growing my skills.
+I’m a full-stack developer pursuing a Bachelor of Science in Computer Science at James Madison University. I’m currently looking for opportunities where I can contribute to a team of developers, make a meaningful impact, and continue growing my skills.
 
 ---
 
