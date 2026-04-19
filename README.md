@@ -2,7 +2,7 @@
 
 💫 **Full-Stack Developer & ML Engineer | CS @ James Madison University**
 
-I'm passionate about building software that's technically sound and grounded in real-world problems. My work spans full-stack web development, machine learning systems, and applied AI — from anomaly detection pipelines to RAG-powered chatbots to offline-capable apps.
+Hello, I’m Brendan. I’m a full-stack developer pursuing a Bachelor of Science in Computer Science at James Madison University. I’m currently looking for opportunities where I can contribute to a team of developers, make a meaningful impact, and continue growing my skills.
 
 ---
 
