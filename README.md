@@ -9,7 +9,6 @@ I’m a full-stack developer pursuing a Bachelor of Science in Computer Science 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-walls&show_icons=true&theme=tokyonight&hide_border=true" alt="Brendan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-walls&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-walls&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
