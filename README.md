@@ -10,7 +10,6 @@ I’m a full-stack developer pursuing a Bachelor of Science in Computer Science 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-walls&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-walls&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
