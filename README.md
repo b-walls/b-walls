@@ -8,7 +8,7 @@ I’m a full-stack developer pursuing a Bachelor of Science in Computer Science 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-walls&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
